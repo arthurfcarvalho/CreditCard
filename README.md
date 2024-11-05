@@ -24,7 +24,7 @@ This project is an Android application that provides a custom credit card input 
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/credit-card-ui.git
+    git clone https://github.com/arthurfcarvalho/CreditCard.git
 
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
